@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "participants": [
+    {
+      "id": "GPT-A",
+      "github_user": "caiwudi1989"
+    },
+    {
+      "id": "GPT-B",
+      "github_user": null
+    }
+  ]
+}
