@@ -1,0 +1,5 @@
+{
+  "schema_version": 1,
+  "description": "非实时消息索引；读取后自行处理",
+  "messages": []
+}
